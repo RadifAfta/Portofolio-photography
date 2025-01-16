@@ -40,7 +40,7 @@ const Hero = () => {
 
                 {/* Text content */}
                 <h1 className="text-7xl font-bold mb-6 bg-gradient-to-r from-white via-purple-200 to-white bg-clip-text text-transparent">
-                    Rehan Naura
+                    Sueb Kirno
                 </h1>
                 
                 <div className="space-y-4">
